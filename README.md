@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/DresdenGman/open-source-contributions">Open-source portfolio</a>
   ·
-  <a href="https://gert-woad.vercel.app">GERT</a>
+  <a href="https://gert-d.vercel.app">GERT</a>
   ·
   <a href="https://epsilon-livid.vercel.app/landing">EPSILON</a>
 </p>
@@ -45,7 +45,7 @@ Every merged contribution has an evidence-backed engineering writeup covering di
 
 | Project | What it investigates |
 | --- | --- |
-| **[GERT — Grid Extreme Risk Toolkit](https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-)** · [Live](https://gert-woad.vercel.app) | A probabilistic decision-support system for grid stress, tail risk, scenario intervention, and explicit data/model provenance. Its real-model path is gated by calibration rather than promoted when the evidence is insufficient. |
+| **[GERT — Grid Extreme Risk Toolkit](https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-)** · [Live](https://gert-d.vercel.app) | A probabilistic decision-support system for grid stress, tail risk, scenario intervention, and explicit data/model provenance. Its real-model path is gated by calibration rather than promoted when the evidence is insufficient. |
 | **[EPSILON — Quantitative Decision Lab](https://github.com/DresdenGman/EPSILON-trading-simulator)** · [Live](https://epsilon-livid.vercel.app/landing) | A research environment for turning market ideas into falsifiable claims while keeping execution assumptions, provenance, negative evidence, and failure conditions visible. |
 | **[The Backtest That Lied](https://github.com/DresdenGman/the-backtest-that-lied)** · [Live](https://dresdengman.github.io/the-backtest-that-lied) | A forensic ML study in which a near-perfect signal collapsed after leakage repair and failed again under costs and liquidity constraints—leading to a documented decision to terminate the strategy. |
 | **[PJM Extreme-Winter Forecasting](https://github.com/DresdenGman/pjm-polar-vortex-paper)** | Ongoing research into how ordinary annual validation can conceal probabilistic forecast failure during rare cold events. The manuscript remains in development. |

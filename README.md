@@ -1,11 +1,5 @@
-<h1 align="center">Dresden Goehner</h1>
-
 <p align="center">
-  <strong>Building trustworthy computational tools for real-world decisions.</strong>
-</p>
-
-<p align="center">
-  Reliable machine learning · Scientific open source · Probabilistic systems
+  <img src="assets/profile-banner.svg" alt="Dresden Goehner — building trustworthy computational tools through reliable machine learning, scientific open source, and probabilistic systems" width="100%">
 </p>
 
 <p align="center">

@@ -8,6 +8,10 @@
   <a href="https://gert-d.vercel.app">GERT</a>
   ·
   <a href="https://epsilon-livid.vercel.app/landing">EPSILON</a>
+  ·
+  <a href="https://dresdengman.github.io/the-backtest-that-lied">The Backtest That Lied</a>
+  ·
+  <a href="https://github.com/DresdenGman/pjm-polar-vortex-paper">PJM research</a>
 </p>
 
 I am a student developer working at the intersection of applied mathematics, machine learning, and scientific software. I build systems that make **uncertainty, provenance, assumptions, and failure conditions** visible—then test whether their conclusions still hold outside a clean demonstration.

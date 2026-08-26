@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Dresden Goehner — building trustworthy computational tools through reliable machine learning, scientific open source, and probabilistic systems" width="100%">
+  <img src="assets/profile-banner.svg" alt="Dresden — building trustworthy computational tools through reliable machine learning, scientific open source, and probabilistic systems" width="100%">
 </p>
 
 <p align="center">

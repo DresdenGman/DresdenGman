@@ -22,9 +22,9 @@ My work has moved from training models and optimizing headline accuracy toward a
 
 | Verified outcome | Snapshot |
 | --- | ---: |
-| Merged upstream pull requests | **15** |
-| Upstream repositories | **13** |
-| Open-source organizations | **12** |
+| Merged upstream pull requests | **16** |
+| Upstream repositories | **14** |
+| Open-source organizations | **13** |
 | Deduplicated reach of recipient repositories | **246K+ stars** |
 
 <sub>Repository stars are ecosystem-scale context, not stars earned by my patches. Repositories are counted once; methodology and dated evidence are available in the <a href="https://github.com/DresdenGman/open-source-contributions/blob/main/METHODOLOGY.md">portfolio methodology</a>.</sub>

@@ -22,14 +22,16 @@ My work has moved from training models and optimizing headline accuracy toward a
 
 | Verified outcome | Snapshot |
 | --- | ---: |
-| Merged upstream pull requests | **19** |
+| Merged upstream pull requests | **20** |
 | Upstream repositories | **14** |
-| Open-source organizations | **13** |
-| Deduplicated reach of recipient repositories | **250K+ stars** |
+| Upstream owners | **13** (11 organizations, 2 individual owners) |
+| Deduplicated reach of recipient repositories | **253,097 stars** |
 
-<sub>Snapshot: September 20, 2026. Repository stars are ecosystem-scale context, not stars earned by my patches. Repositories are counted once; methodology and dated evidence are available in the <a href="https://github.com/DresdenGman/open-source-contributions/blob/main/METHODOLOGY.md">portfolio methodology</a>.</sub>
+<sub>Snapshot: October 9, 2026 (America/Los_Angeles). Own-project PRs are excluded from the upstream total. Repository stars are ecosystem-scale context, not stars earned by my patches. Repositories are counted once; methodology and dated evidence are available in the <a href="https://github.com/DresdenGman/open-source-contributions/blob/main/METHODOLOGY.md">portfolio methodology</a>.</sub>
 
 Selected work:
+
+- **[SALib #693](https://github.com/SALib/SALib/pull/693)** — merged a Morris sampling reliability guard for unbounded distributions. The final version validates endpoints before sampling and includes maintainer refinements and regression tests. SALib now accounts for five merged upstream contributions.
 
 - **[MAPIE #953](https://github.com/scikit-learn-contrib/MAPIE/pull/953)** — added AUROC and AUARC APIs for evaluating uncertainty estimates, including validation, tests, documentation, and review-driven iteration.
 - **[Fairlearn #1674](https://github.com/fairlearn/fairlearn/pull/1674)** — integrated confidence-interval detection into the public `MetricFrame` plotting API with edge-case coverage.
@@ -37,7 +39,7 @@ Selected work:
 - **[StatsForecast #1175](https://github.com/Nixtla/statsforecast/pull/1175)** — added conformal-error prediction intervals and supporting tests.
 - **[NeuralForecast #1563](https://github.com/Nixtla/neuralforecast/pull/1563)** — implemented FreDF, a loss combining time- and frequency-domain error.
 
-Every merged contribution has an evidence-backed engineering writeup covering diagnosis, implementation, validation, review, and lessons learned: **[explore all merged work →](https://github.com/DresdenGman/open-source-contributions)**
+Every merged upstream contribution has an evidence-backed engineering writeup covering diagnosis, implementation, validation, review, and lessons learned: **[explore all merged work →](https://github.com/DresdenGman/open-source-contributions)**
 
 ## Featured work
 

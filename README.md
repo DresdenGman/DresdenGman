@@ -22,14 +22,17 @@ My work has moved from training models and optimizing headline accuracy toward a
 
 | Verified outcome | Snapshot |
 | --- | ---: |
-| Merged upstream pull requests | **20** |
+| Merged upstream engineering pull requests | **21** |
+| Curated-resource listings | **1**, counted separately |
 | Upstream repositories | **14** |
 | Upstream owners | **13** (11 organizations, 2 individual owners) |
-| Deduplicated reach of recipient repositories | **253,097 stars** |
+| Historical recipient-repository reach (October 9, 2026) | **253,097 stars** |
 
-<sub>Snapshot: October 9, 2026 (America/Los_Angeles). Own-project PRs are excluded from the upstream total. Repository stars are ecosystem-scale context, not stars earned by my patches. Repositories are counted once; methodology and dated evidence are available in the <a href="https://github.com/DresdenGman/open-source-contributions/blob/main/METHODOLOGY.md">portfolio methodology</a>.</sub>
+<sub>Contribution status verified October 21, 2026 (UTC): 21 upstream engineering merges and 1 separate directory listing. Own-project PRs and resource listings are excluded from the engineering total and its 14-repository / 13-owner metrics. The star total retains the October 9, 2026 (America/Los_Angeles) snapshot and was not remeasured; repository stars are context, not stars earned by my patches. See the <a href="https://github.com/DresdenGman/open-source-contributions/blob/main/METHODOLOGY.md">portfolio methodology and dated evidence</a>.</sub>
 
 Selected work:
+
+- **[StatsForecast #1241](https://github.com/Nixtla/statsforecast/pull/1241)**: exposed an optional fixed theta in AutoTheta, OptimizedTheta and DynamicOptimizedTheta, with optimizer-aligned validation and fit/forecast regression tests. Merged October 20; published-release availability and adoption are not claimed.
 
 - **[SALib #693](https://github.com/SALib/SALib/pull/693)** — merged a Morris sampling reliability guard for unbounded distributions. The final version validates endpoints before sampling and includes maintainer refinements and regression tests. SALib now accounts for five merged upstream contributions.
 
@@ -39,7 +42,9 @@ Selected work:
 - **[StatsForecast #1175](https://github.com/Nixtla/statsforecast/pull/1175)** — added conformal-error prediction intervals and supporting tests.
 - **[NeuralForecast #1563](https://github.com/Nixtla/neuralforecast/pull/1563)** — implemented FreDF, a loss combining time- and frequency-domain error.
 
-Every merged upstream contribution has an evidence-backed engineering writeup covering diagnosis, implementation, validation, review, and lessons learned: **[explore all merged work →](https://github.com/DresdenGman/open-source-contributions)**
+Every merged upstream engineering contribution has an evidence-backed writeup covering diagnosis, implementation, validation, review, and lessons learned: **[explore all merged work →](https://github.com/DresdenGman/open-source-contributions)**
+
+**External resource inclusion:** EPSILON's 25-minute Assumption Clinic was [included in awesome-quant](https://github.com/wilsonfreitas/awesome-quant/pull/735) on October 19, 2026. This is a curated listing, not evidence of learner adoption or validation of trading performance.
 
 ## Featured work
 

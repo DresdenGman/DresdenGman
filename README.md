@@ -29,6 +29,19 @@ The common thread across everything I build: **replace impressive-looking output
 
 ---
 
+## Mathematics competitions at a glance
+
+| Competition | Result | What it means |
+|:--|:--|:--|
+| **AIME 2026** (American Invitational Mathematics Examination) | **14 / 15** | Invitation-only second round of the US Math Olympiad pipeline (AMC 10/12 → AIME → USAMO/USAJMO → IMO team). Only a small fraction of AMC 10/12 takers qualify (MAA guarantees at least the top 2.5% of AMC 10 and top 5% of AMC 12). A 14 is approx. top ~2.5% of AIME takers — roughly top ~0.25% of all AMC participants *(approximate, my own estimate)*. |
+| **British Mathematical Olympiad Round 2 (BMO2) 2026** | **27 / 40 — Distinction** · Best in School | BMO2 is the final olympiad round used to select the UK International Mathematical Olympiad (IMO) squad. As an international student I was not officially ranked; my score is equivalent to roughly 7th–8th overall *(international, unranked; approximate)*. |
+| **Stanford Math Tournament (SMT) 2026** | **Algebra — 3rd place** · Discrete — 7th place | Subject-test placements at one of the largest university-run math contests (~800 in-person competitors; 2,000+ participants globally including SMT Online, per SMT). |
+
+<br>
+
+---
+
+
 ## Flagship projects
 
 <table>

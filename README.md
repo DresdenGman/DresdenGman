@@ -35,19 +35,6 @@ The common thread across everything I build: **replace impressive-looking output
 <tr>
 <td width="50%" valign="top">
 
-**[GERT — Grid Extreme Risk Toolkit](https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-)**
-
-Probabilistic tail-risk decision support for power grids. P50–P99 risk distributions, capacity boundary overlay, scenario intervention, 65,711 hours of continuous data, two strict out-of-time evaluations, preregistered calibration gate.
-
-> The model did not pass the calibration threshold and was not promoted as reliable. That result is published, not hidden.
-
-`Python` `Probabilistic Forecasting` `Energy Systems`
-
-[→ Live dashboard](https://gert-d.vercel.app) · [27 ★](https://github.com/DresdenGman/Grid-Extreme-Risk-Toolkit-GERT-)
-
-</td>
-<td width="50%" valign="top">
-
 **[EPSILON — Algorithmic Trading Decision Lab](https://github.com/DresdenGman/EPSILON-trading-simulator)**
 
 Falsifiability-first quantitative research environment. Failure conditions are locked in *before* results appear. Realistic order types, slippage, FFT analysis, robustness diagnostics.
@@ -61,8 +48,6 @@ Diamond Challenge Beijing Regional — 3rd place.
 [→ Project](https://github.com/DresdenGman/EPSILON-trading-simulator) · [205 ★](https://github.com/DresdenGman/EPSILON-trading-simulator)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[AI Navigation Glasses](https://github.com/DresdenGman/AIGlasses_for_navigation)**
@@ -74,21 +59,6 @@ Deployed and donated across three communities; taught older adults to self-assem
 `Computer Vision` `Edge AI` `Raspberry Pi`
 
 [→ Repository](https://github.com/DresdenGman/AIGlasses_for_navigation) · [192 ★](https://github.com/DresdenGman/AIGlasses_for_navigation)
-
-</td>
-<td width="50%" valign="top">
-
-**[FutureOS](https://futureos.space/)**
-
-Versioned decision operating system. Frame → forecast → update → resolve. Bayesian revision, Brier scoring, expected utility, versioned decision memory.
-
-The system remembers *why* a decision changed — not just what it became.
-
-250 tests · 16 routes · zero known production vulnerabilities at audit.
-
-`TypeScript` `Decision Theory` `Probabilistic Systems`
-
-[→ Live site](https://futureos.space) · [22 ★](https://github.com/DresdenGman/futureos)
 
 </td>
 </tr>

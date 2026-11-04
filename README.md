@@ -1,6 +1,6 @@
 <!-- BANNER — raw SVG embedded as image, renders in GitHub dark theme -->
 <div align="center">
-<img src="assets/profile-banner.svg" width="100%" alt="Dresden Goehner — Applied Mathematics · Trustworthy ML · Scientific OSS"/>
+<img src="assets/profile-banner.png" width="100%" alt="Dresden Goehner — Applied Mathematics · Trustworthy ML · Scientific OSS"/>
 </div>
 
 <br>

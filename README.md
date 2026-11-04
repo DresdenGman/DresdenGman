@@ -34,6 +34,7 @@ The common thread across everything I build: **replace impressive-looking output
 | Competition | Result | What it means |
 |:--|:--|:--|
 | **AIME 2026** (American Invitational Mathematics Examination) | **14 / 15** | Invitation-only second round of the US Math Olympiad pipeline (AMC 10/12 → AIME → USAMO/USAJMO → IMO team). Only a small fraction of AMC 10/12 takers qualify (MAA guarantees at least the top 2.5% of AMC 10 and top 5% of AMC 12). A 14 is approx. top ~2.5% of AIME takers — roughly top ~0.25% of all AMC participants *(approximate, my own estimate)*. |
+| **USAJMO 2026** (USA Junior Mathematical Olympiad) | **Qualifier** | Invitation-only USA Junior Math Olympiad — the next stage after AIME. |
 | **British Mathematical Olympiad Round 2 (BMO2) 2026** | **27 / 40 — Distinction** · Best in School | BMO2 is the final olympiad round used to select the UK International Mathematical Olympiad (IMO) squad. As an international student I was not officially ranked; my score is equivalent to roughly 7th–8th overall *(international, unranked; approximate)*. |
 | **Stanford Math Tournament (SMT) 2026** | **Algebra — 3rd place** · Discrete — 7th place | Subject-test placements at one of the largest university-run math contests (~800 in-person competitors; 2,000+ participants globally including SMT Online, per SMT). |
 
@@ -58,7 +59,7 @@ Diamond Challenge Beijing Regional — 3rd place.
 
 `Python` `Next.js` `FastAPI`
 
-[→ Project](https://github.com/DresdenGman/EPSILON-trading-simulator) · [205 ★](https://github.com/DresdenGman/EPSILON-trading-simulator)
+[→ Project](https://github.com/DresdenGman/EPSILON-trading-simulator)
 
 </td>
 <td width="50%" valign="top">
@@ -71,7 +72,7 @@ Deployed and donated across three communities; taught older adults to self-assem
 
 `Computer Vision` `Edge AI` `Raspberry Pi`
 
-[→ Repository](https://github.com/DresdenGman/AIGlasses_for_navigation) · [192 ★](https://github.com/DresdenGman/AIGlasses_for_navigation)
+[→ Repository](https://github.com/DresdenGman/AIGlasses_for_navigation)
 
 </td>
 </tr>
@@ -90,7 +91,6 @@ Deployed and donated across three communities; taught older adults to self-assem
 <td align="center"><b>23</b><br><sub>merged PRs</sub></td>
 <td align="center"><b>14</b><br><sub>organizations</sub></td>
 <td align="center"><b>15</b><br><sub>repositories</sub></td>
-<td align="center"><b>215K+</b><br><sub>recipient repo stars</sub></td>
 </tr>
 </table>
 
@@ -105,8 +105,6 @@ Contributions to: `HuggingFace/peft` · `langgenius/dify` · `networkx/networkx`
 | [Fairlearn #1674](https://github.com/fairlearn/fairlearn/pull/1674) | Confidence-interval support in `plot_metric_frame` via public `MetricFrame` API |
 | [NetworkX #8735](https://github.com/networkx/networkx/pull/8735) | Regression-tested warning for ineffective PageRank convergence threshold |
 | [BeeWare Briefcase #2939](https://github.com/beeware/briefcase/pull/2939) | Hardened 27 GitHub Actions refs; pinned permissions; zizmor scanning |
-
-*The 15 receiving repositories total 215K+ stars — this is repository scale context, not personal impact.*
 
 </details>
 
@@ -151,4 +149,4 @@ Contributions to: `HuggingFace/peft` · `langgenius/dify` · `networkx/networkx`
 
 </div>
 
-<sub>Contribution counts verified via GitHub API, November 2026. Star totals are recipient-repository context — not a personal impact metric. Calibration and methodology notes: [evidence record](https://github.com/DresdenGman/open-source-contributions).</sub>
+<sub>Contribution counts verified via GitHub API, November 2026. Calibration and methodology notes: [evidence record](https://github.com/DresdenGman/open-source-contributions).</sub>

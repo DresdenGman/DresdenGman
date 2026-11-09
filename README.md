@@ -110,6 +110,8 @@ Contributions to: `HuggingFace/peft` · `langgenius/dify` · `networkx/networkx`
 
 [→ Full evidence record with dated methodology](https://github.com/DresdenGman/open-source-contributions)
 
+Case studies: [SALib — six merged PRs](https://github.com/DresdenGman/open-source-case-studies/blob/main/salib-case-study.md) · [StatsForecast — three merged PRs](https://github.com/DresdenGman/open-source-case-studies/blob/main/statsforecast-case-study.md)
+
 <br>
 
 ---

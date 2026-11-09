@@ -84,13 +84,13 @@ Deployed and donated across three communities; taught older adults to self-assem
 
 ## Open-source engineering
 
-**23 external pull requests merged across 14 organizations.**
+**25 external pull requests merged across 14 organizations.**
 
 <table>
 <tr>
-<td align="center"><b>23</b><br><sub>merged PRs</sub></td>
+<td align="center"><b>25</b><br><sub>merged PRs</sub></td>
 <td align="center"><b>14</b><br><sub>organizations</sub></td>
-<td align="center"><b>15</b><br><sub>repositories</sub></td>
+<td align="center"><b>17</b><br><sub>repositories</sub></td>
 </tr>
 </table>
 

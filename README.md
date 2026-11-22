@@ -82,9 +82,9 @@ A clean negative result is worth more to me than a profitable-looking lie, and I
 
 ## Open source — depth over count
 
-**27 merged pull requests across 18 third-party repositories**, plus one curated-list entry (counted from GitHub's own records on November 18, 2026; my own projects are excluded). Every pull request, with its file and line counts and the maintainer exchange behind it, is on [my open-source page](https://dresdengoehner.com/contributions.html).
+**29 merged pull requests across 19 third-party repositories**, plus one curated-list entry (counted from GitHub's own records on November 22, 2026; my own projects are excluded). Every pull request, with its file and line counts and the maintainer exchange behind it, is on [my open-source page](https://dresdengoehner.com/contributions.html).
 
-**The 18 repositories I have contributed to have 280K+ combined GitHub stars** (Dify, Argo CD, PEFT, NetworkX, Tornado and others). That is the reach of the projects I worked in, not stars earned by my patches. Stars counted October–November 2026.
+**The 19 repositories I have contributed to have 280K+ combined GitHub stars** (Dify, Argo CD, PEFT, NetworkX, Tornado and others). That is the reach of the projects I worked in, not stars earned by my patches. Stars counted October–November 2026.
 
 What I want you to see is how the work changes in review:
 

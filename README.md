@@ -133,7 +133,7 @@ Certificates for each result are on [my proof page](https://dresdengoehner.com/p
 | **British Physics Olympiad Round 1, 2025–26** | 80 / 100 · Global Top Gold |
 | **UK Senior Mathematical Challenge 2025** | 120 / 125 · Gold |
 | **LSE Economics Challenge 2025** | 97 / 100 · Top Gold |
-| **Diamond Challenge 2026, Beijing Pitch Event** | Third Prize *(regional)* |
+| **Diamond Challenge 2026, Semifinal (Beijing)** | Third Prize |
 
 <br>
 

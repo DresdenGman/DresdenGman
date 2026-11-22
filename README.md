@@ -108,8 +108,14 @@ Most portfolios list wins. These are mine in the other direction, and each is do
 - **A PR I shrank.** My NetworkX warning was reduced to documentation after review.
 - **Glasses that don't yet work well enough.** Nearly half of surveyed users found the prompts inaccurate, and only 9 of 64 were still using them.
 
-<!-- TODO (you): add one sentence on how you use AI tools in your work (what you decide, what the tools do).
-     Stating it yourself reads better than being asked. -->
+### Engineering & Verification
+
+I am responsible for every change I submit. I use AI tools as a secondary aid, not as a substitute for reading the code or designing the fix.
+
+- **What I own:** choosing which issues to work on, tracing root causes, designing and writing the core fix, running the test suite locally, and replying to maintainer review myself.
+- **Where AI is bounded:** searching unfamiliar modules for historical API behavior, expanding repetitive `pytest` parameter tables after I specify the edge cases, and checking derivations and docstrings for slips. Nothing generated enters a commit without line-by-line review and independent verification.
+
+**Calibration in practice:** In [NetworkX #8735](https://github.com/networkx/networkx/pull/8735), my first patch added a runtime warning. A maintainer pointed out that warnings add overhead and are often ignored for a parameter-interpretation issue, so I removed the warning and its tests and reduced the PR to a documentation note, which was then improved by a second maintainer and merged. Knowing when to pull back is part of the work.
 
 <br>
 

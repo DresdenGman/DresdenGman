@@ -30,7 +30,7 @@ A confident wrong answer is the most dangerous output a system can give, especia
 
 ---
 
-## 1 · AI Navigation Glasses — a system built to say "uncertain"
+## 1 · QuietFrame — a system built to say "uncertain"
 
 Commercial AI glasses cost hundreds of dollars, and most AI sounds equally sure whether it is right or guessing. For someone who cannot double-check with their own eyes, both problems are decisive. This open-source project aims at the opposite: a pair that costs **under US$35** (US$32.29 itemised) and **stays silent or says "uncertain" rather than guess**. Low-confidence detections never trigger guidance.
 
@@ -42,11 +42,11 @@ It builds on an open-source codebase that the repository credits ([AI-FanGe/Open
 
 - **20** units donated, with accessory kits · **64** people tried them · **85** survey responses (raw data published) · **3** communities taught to assemble their own.
 - **The survey also told me what's wrong.** Only 9 of the 64 were still using the glasses, and 48% said prompts were inaccurate or missed something important. Prompt accuracy is now the first thing to fix.
-- **450+ stars.** An honest status table separates what is real, what is a demo and what is only planned.
+- **550+ stars.** An honest status table separates what is real, what is a demo and what is only planned.
 
 *A research prototype — not a medical device, and not a replacement for a cane, a guide dog or mobility training.*
 
-[→ Repository & build guide](https://github.com/DresdenGman/AIGlasses_for_navigation) · [→ Live Lifelog demo](https://dresdengman.github.io/AIGlasses_for_navigation/)
+[→ Repository & build guide](https://github.com/DresdenGman/QuietFrame) · [→ Live Lifelog demo](https://dresdengman.github.io/QuietFrame/)
 
 <br>
 
